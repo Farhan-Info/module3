@@ -56,7 +56,8 @@
     color: black;
     font-family: 'Alfa Slab One';
     font-weight: 100;
-    background-color: #fb9c30;
+    background-color: #191511;
+    opacity: 0.5;
 }
 
 #nav-list a:hover {
