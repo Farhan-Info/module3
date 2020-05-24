@@ -5,7 +5,7 @@
     background-color: #1af399;
 }
 #header-nav {
-    background-color: #AAA5A5;
+    background-color: #fb9c30;
     border-radius: 0;
     border: 0;    
     border: solid black 3px;
@@ -39,7 +39,8 @@
 
 #text {       
     margin: 10px;
-    background-color: #AAA5A5;
+    border: 2;
+    background-color: #aa49ce;
     font-family: 'Alfa Slab One';   
     position: relative;
 }
