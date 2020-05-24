@@ -1,7 +1,9 @@
 * {
     box-sizing: border-box;
 }
-
+#view {
+    background-color="red";
+}
 #header-nav {
     background-color: #AAA5A5;
     border-radius: 0;
